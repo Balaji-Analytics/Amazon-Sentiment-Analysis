@@ -180,4 +180,10 @@ Skills Demonstrated:
 * Sentiment Analysis
 * Natural Language Processing (NLP)
 * Data Analysis
+
+---
+
+## Visualization
+
+![Rating vs Sentiment](rating_vs_sentiment.png)
 * Data Visualization
